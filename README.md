@@ -65,10 +65,9 @@ Trenutno razvijam projekat za digitalizaciju takmičenja na Elektrijadi i usavr�
 
 ## 📫 Kontakt
 
-- **Email**:<ol type="1">
-        <li>[andrej.tomic@student.etf.unibl.org](mailto:andrej.tomic@student.etf.unibl.org)</li>
-        <li>[andrejtomic1945@gmail.com](mailto:andrejtomic1945@gmail.com)</li>
-        </ol>
+- **Email**
+  - [andrej.tomic@student.etf.unibl.org](mailto:andrej.tomic@student.etf.unibl.org)
+  - [andrejtomic1945@gmail.com](mailto:andrejtomic1945@gmail.com)
 - **Telefon**: +387 66 040 681  
 - **Lokacija**: Petrov Gaj 136, Prijedor, BiH  
 

@@ -35,10 +35,10 @@ Strastveni sam zaljubljenik u tehnologiju, matematiku i kreativna rješenja prob
 
 ### Programski jezici
 - Odlično znanje:  
-  **Java, C, C++, C#, Python, HTML, CSS**
+  **Java, C, C++, C#, Python, HTML, CSS, SQL**
 
 - Poznavanje:  
-  **PHP, JavaScript, SQL**
+  **PHP, JavaScript**
 
 ### Alati i okruženja
 - **MS Office**: Word, Excel, PowerPoint, Access  

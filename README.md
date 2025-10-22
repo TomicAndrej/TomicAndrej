@@ -1,6 +1,6 @@
 # 👋 Zdravo, ja sam Andrej Tomić!
 
-Dobrodošli na moj GitHub profil! Ja sam student treće godine Elektrotehničkog fakulteta Univerziteta u Banjoj Luci, na smjeru **Softversko inženjerstvo**, sa prosjekom 8.16.
+Dobrodošli na moj GitHub profil! Ja sam student četvrte godine Elektrotehničkog fakulteta Univerziteta u Banjoj Luci, na smjeru **Softversko inženjerstvo**, sa prosjekom 8.10.
 Strastveni sam zaljubljenik u tehnologiju, matematiku i kreativna rješenja problema, a trenutno sam motivisan da započnem prve profesionalne izazove u IT industriji.
 
 ---
@@ -9,9 +9,8 @@ Strastveni sam zaljubljenik u tehnologiju, matematiku i kreativna rješenja prob
 
 - **Elektrotehnički fakultet Univerziteta u Banjoj Luci**  
   - Softversko inženjerstvo  
-  - Prosečna ocena: **8.16**
-  - Položeni ispiti: **19/19**
-  - Trenutno na trećoj godini studija.
+  - Prosečna ocena: **8.10**
+  - Trenutno na četvrtoj godini studija.
 
 - **Elektrotehnička škola Prijedor**  
   - Tehničar informacionih tehnologija  

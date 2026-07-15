@@ -1,7 +1,7 @@
 # 👋 Zdravo, ja sam Andrej Tomić!
 
-Dobrodošli na moj GitHub profil! Ja sam student četvrte godine Elektrotehničkog fakulteta Univerziteta u Banjoj Luci, na smjeru **Softversko inženjerstvo**, sa prosjekom 8.10.
-Strastveni sam zaljubljenik u tehnologiju, matematiku i kreativna rješenja problema, a trenutno sam motivisan da započnem prve profesionalne izazove u IT industriji.
+Dobrodošli na moj GitHub profil! Ja sam student završne godine Elektrotehničkog fakulteta Univerziteta u Banjoj Luci, na smjeru **Softversko inženjerstvo**, sa trenutnim prosjekom 8.33.
+Strastveni sam zaljubljenik u tehnologiju, matematiku, statistiku, analizu podataka i kreativna rješenja problema, a trenutno sam motivisan da započnem prve profesionalne izazove u IT industriji.
 
 ---
 
@@ -9,8 +9,9 @@ Strastveni sam zaljubljenik u tehnologiju, matematiku i kreativna rješenja prob
 
 - **Elektrotehnički fakultet Univerziteta u Banjoj Luci**  
   - Softversko inženjerstvo  
-  - Prosečna ocena: **8.10**
-  - Trenutno na četvrtoj godini studija.
+  - Prosječna ocjena: **8.33**
+  - Trenutno na četvrtoj godini studija
+  - Planiran završetak: kraj 2026. godine
 
 - **Elektrotehnička škola Prijedor**  
   - Tehničar informacionih tehnologija  
@@ -35,14 +36,13 @@ Strastveni sam zaljubljenik u tehnologiju, matematiku i kreativna rješenja prob
 
 ### Programski jezici
 - Odlično znanje:  
-  **Java, C, C++, C#, Python, HTML, CSS, SQL**
+  **Java, C, C++, C#, JavaScript, HTML, CSS, SQL, Python**
 
-- Poznavanje:  
-  **PHP, JavaScript**
+### Tehnologije
+- **Spring Boot, JavaFX, Swing, Redis, RabbitMQ, .NET**
 
-### Alati i okruženja
-- **MS Office**: Word, Excel, PowerPoint, Access  
-- **Simulacioni alati**: Cisco Packet Tracer, Matlab, Electronic Workbench  
+### Mrežni koncepti i alati
+- **Git, REST, Soketi (SSL/TLS), RMI, Cisco Packet Tracer**
 
 ---
 
@@ -57,8 +57,6 @@ Strastveni sam zaljubljenik u tehnologiju, matematiku i kreativna rješenja prob
 - Ljubitelj matematike i njenih praktičnih primena.  
 - Radim kao instruktor programiranja i matematike u slobodno vrijeme.  
 - Zaljubljenik u putovanja i sportove.  
-
-Trenutno razvijam projekat za digitalizaciju takmičenja na Elektrijadi i usavršavam vještine u razvoju softverskih rješenja.
 
 ---
 
